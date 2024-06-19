@@ -49,4 +49,3 @@ pandas-limpeza-e-tratamento-de-dados/
 To learn more about data analysis with Python and Pandas, visit the [Alura training page](https://cursos.alura.com.br/formacao-data-science-python).
 
 Feel free to explore, modify, and use this project as a foundation for your own data analysis projects!
-```
