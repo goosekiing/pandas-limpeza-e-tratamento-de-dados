@@ -34,7 +34,7 @@ pandas-limpeza-e-tratamento-de-dados/
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pandas-limpeza-e-tratamento-de-dados.git
+   git clone https://github.com/goosekiing/pandas-limpeza-e-tratamento-de-dados.git
    ```
 2. Navigate to the project directory:
    ```sh
